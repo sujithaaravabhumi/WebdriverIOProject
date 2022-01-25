@@ -1,0 +1,81 @@
+[ {
+  "uid" : "ba2ba31795261897",
+  "name" : "Our cars",
+  "time" : {
+    "start" : 1643151337803,
+    "stop" : 1643151337819,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3225f478c581b2f8",
+  "name" : "Menu bar",
+  "time" : {
+    "start" : 1643151337800,
+    "stop" : 1643151337841,
+    "duration" : 41
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ccef7fc7c15393c",
+  "name" : "Our cars",
+  "time" : {
+    "start" : 1643151340872,
+    "stop" : 1643151340890,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de463e699c47156",
+  "name" : "study news",
+  "time" : {
+    "start" : 1643151347208,
+    "stop" : 1643151347241,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "580e7df79c64c493",
+  "name" : "study news",
+  "time" : {
+    "start" : 1643151340779,
+    "stop" : 1643151340815,
+    "duration" : 36
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86d870f6c9833631",
+  "name" : "get title",
+  "time" : {
+    "start" : 1643151337785,
+    "stop" : 1643151337798,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "159dec5dceabda05",
+  "name" : "Menu bar",
+  "time" : {
+    "start" : 1643151335831,
+    "stop" : 1643151335876,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "684735e165a3a42d",
+  "name" : "get title",
+  "time" : {
+    "start" : 1643151340850,
+    "stop" : 1643151340867,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

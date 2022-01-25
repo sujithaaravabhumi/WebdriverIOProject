@@ -1,0 +1,149 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Menu bar Test",
+    "children" : [ {
+      "name" : "Menu bar",
+      "uid" : "159dec5dceabda05",
+      "parentUid" : "8dd951ba4a536756704a5a944a165c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151335831,
+        "stop" : 1643151335876,
+        "duration" : 45
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "Menu bar",
+      "uid" : "3225f478c581b2f8",
+      "parentUid" : "8dd951ba4a536756704a5a944a165c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151337800,
+        "stop" : 1643151337841,
+        "duration" : 41
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.1" ]
+    }, {
+      "name" : "study news",
+      "uid" : "580e7df79c64c493",
+      "parentUid" : "8dd951ba4a536756704a5a944a165c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151340779,
+        "stop" : 1643151340815,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "study news",
+      "uid" : "de463e699c47156",
+      "parentUid" : "8dd951ba4a536756704a5a944a165c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151347208,
+        "stop" : 1643151347241,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.1" ]
+    } ],
+    "uid" : "8dd951ba4a536756704a5a944a165c9c"
+  }, {
+    "name" : "Volvocars website",
+    "children" : [ {
+      "name" : "get title",
+      "uid" : "86d870f6c9833631",
+      "parentUid" : "124381ae0424aba76adfa45e3644b730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151337785,
+        "stop" : 1643151337798,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.1" ]
+    }, {
+      "name" : "Our cars",
+      "uid" : "ba2ba31795261897",
+      "parentUid" : "124381ae0424aba76adfa45e3644b730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151337803,
+        "stop" : 1643151337819,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.1" ]
+    }, {
+      "name" : "get title",
+      "uid" : "684735e165a3a42d",
+      "parentUid" : "124381ae0424aba76adfa45e3644b730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151340850,
+        "stop" : 1643151340867,
+        "duration" : 17
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "Our cars",
+      "uid" : "3ccef7fc7c15393c",
+      "parentUid" : "124381ae0424aba76adfa45e3644b730",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643151340872,
+        "stop" : 1643151340890,
+        "duration" : 18
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    } ],
+    "uid" : "124381ae0424aba76adfa45e3644b730"
+  } ]
+}

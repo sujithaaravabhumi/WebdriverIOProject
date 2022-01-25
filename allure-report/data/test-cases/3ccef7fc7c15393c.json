@@ -1,0 +1,156 @@
+{
+  "uid" : "3ccef7fc7c15393c",
+  "name" : "Our cars",
+  "fullName" : "Volvocars website.Our cars",
+  "historyId" : "83e3eca852c00e792bc31c9886eaad9c",
+  "time" : {
+    "start" : 1643151340872,
+    "stop" : 1643151340890,
+    "duration" : 18
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643151340877,
+        "stop" : 0,
+        "duration" : -1643151340877
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1643151340881,
+          "stop" : 0,
+          "duration" : -1643151340881
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/element",
+          "time" : {
+            "start" : 1643151340883,
+            "stop" : 0,
+            "duration" : -1643151340883
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "POST /session/:sessionId/url",
+            "time" : {
+              "start" : 1643151340887,
+              "stop" : 0,
+              "duration" : -1643151340887
+            },
+            "status" : "unknown",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "160d4a829a5fae85",
+              "name" : "Request",
+              "source" : "160d4a829a5fae85.json",
+              "type" : "application/json",
+              "size" : 73
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "stepsCount" : 0,
+            "hasContent" : true
+          } ],
+          "attachments" : [ {
+            "uid" : "624a94bada2f5136",
+            "name" : "Request",
+            "source" : "624a94bada2f5136.json",
+            "type" : "application/json",
+            "size" : 83
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 2,
+          "stepsCount" : 1,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "aa189e65c9a195f0",
+          "name" : "Request",
+          "source" : "aa189e65c9a195f0.json",
+          "type" : "application/json",
+          "size" : 68
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3,
+        "stepsCount" : 2,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "3a8e7ff8d81933f",
+        "name" : "Request",
+        "source" : "3a8e7ff8d81933f.json",
+        "type" : "application/json",
+        "size" : 66
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Our cars"
+  }, {
+    "name" : "package",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ccef7fc7c15393c.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

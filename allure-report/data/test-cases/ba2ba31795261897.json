@@ -1,0 +1,156 @@
+{
+  "uid" : "ba2ba31795261897",
+  "name" : "Our cars",
+  "fullName" : "Volvocars website.Our cars",
+  "historyId" : "92f0895e41db2de92dbf0f6825d613e1",
+  "time" : {
+    "start" : 1643151337803,
+    "stop" : 1643151337819,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643151337806,
+        "stop" : 0,
+        "duration" : -1643151337806
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1643151337808,
+          "stop" : 0,
+          "duration" : -1643151337808
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/element",
+          "time" : {
+            "start" : 1643151337809,
+            "stop" : 0,
+            "duration" : -1643151337809
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "POST /session/:sessionId/url",
+            "time" : {
+              "start" : 1643151337816,
+              "stop" : 0,
+              "duration" : -1643151337816
+            },
+            "status" : "unknown",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "e69adfea371b5686",
+              "name" : "Request",
+              "source" : "e69adfea371b5686.json",
+              "type" : "application/json",
+              "size" : 73
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "stepsCount" : 0,
+            "hasContent" : true
+          } ],
+          "attachments" : [ {
+            "uid" : "5a11750998005e2e",
+            "name" : "Request",
+            "source" : "5a11750998005e2e.json",
+            "type" : "application/json",
+            "size" : 83
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 2,
+          "stepsCount" : 1,
+          "hasContent" : true
+        } ],
+        "attachments" : [ {
+          "uid" : "cf237b951e5b0bba",
+          "name" : "Request",
+          "source" : "cf237b951e5b0bba.json",
+          "type" : "application/json",
+          "size" : 68
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3,
+        "stepsCount" : 2,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "cdc386408547b360",
+        "name" : "Request",
+        "source" : "cdc386408547b360.json",
+        "type" : "application/json",
+        "size" : 66
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "stepsCount" : 3,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Our cars"
+  }, {
+    "name" : "package",
+    "value" : "Volvocars website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-95.0.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba2ba31795261897.json",
+  "parameterValues" : [ "firefox-95.0.1" ]
+}
